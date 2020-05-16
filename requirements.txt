@@ -3,3 +3,8 @@ voila-material
 numpy
 matplotlib
 ipywidgets
+ipython
+pandas
+plotly
+folium
+seaborn
